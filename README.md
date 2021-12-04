@@ -7,7 +7,7 @@ Made Dynamic with PHP and a MySQL database.
 # Note:
 1. Not all links work
 2. No Login/Signup page to add users to the Database (Will be available in future versions)
-3. Add to cart and other major E-Commerce functionalities have been enginereed almost to perfection.
+3. Add to cart and other major E-Commerce functionalities have been enginered to the best of my abilities.
 
 # Version: 1.0
 
